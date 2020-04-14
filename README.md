@@ -9,11 +9,11 @@ A simple PWA demo that displays the text "Hello, World!" utilizing an app manife
 
 I've also written a tutorial to go along with the code. Read it on Medium:
 
-
+https://www.epiloge.com/the-next-generation-mobile-app-tech--pwa-progress-web-app-e788ea
 
 ## Demo
 
-
+https://pwa-hello-world-6d88d.firebaseapp.com/
 
 ## Browser Compatibility
 
