@@ -7,9 +7,7 @@ The classic Hello World program as a Progressive Web App
 
 A simple PWA demo that displays the text "Hello, World!" utilizing an app manifest, service workers and caching. This demo is written in plain-vanilla HTML, CSS and Javascript (ES6). It has no dependencies.
 
-I've also written a tutorial to go along with the code. Read it on Medium:
-
-https://www.epiloge.com/the-next-generation-mobile-app-tech--pwa-progress-web-app-e788ea
+I've also written a tutorial to go along with the code.
 
 ## Demo
 
@@ -23,6 +21,3 @@ Hello PWA has been tested in the following browsers:
 * Firefox 60
 * Safari 11
 * Edge 42
-
-
-# Jin
